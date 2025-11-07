@@ -1,1 +1,2 @@
 # Differential_mount_design
+This project documents the complete design, modeling, and simulation of a differential mount for a mechanical vehicle subsystem, including force and safety analysis. Using CAD tools, the mount, brackets, rods, and differential cylinder were precisely modeled to optimize integration with the chassis and drivetrain, support dynamic mechanical loads, and enable efficient maintenance. Physical material selection prioritized strength and lightweight, with in-depth simulation validating the design under aggressive performance scenarios.
